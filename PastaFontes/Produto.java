@@ -1,4 +1,7 @@
 
+// Classe de produtos vendidos pelo estacionamento
+// Exemplos: troca de oleo, revisao, estacionamento, lavagem
+
 public class Produto {
 
 	private double peso;
